@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "summary": "Base64 encoding and decoding",
+    "version": "1.0.1",
+    "summary": "HTML headers that do not escape their text",
     "repository": "https://github.com/driebit/elm-html-unsafe-headers.git",
     "license": "MIT",
     "source-directories": [
